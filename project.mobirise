@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ALL QUIZ Games",
-    "currentPage": "smallville.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -73,7 +73,7 @@
       "text": "Utilizamos coockies propias y de terceros. Puedes obtener más información en nuestra política de <a href='terms.html'>cookies</a> y de  <a href='policy.html'>privacidad</a>."
     },
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
@@ -2469,7 +2469,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 1
       },
       "components": [
         {
@@ -3367,7 +3367,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -4267,7 +4267,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -5167,7 +5167,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
