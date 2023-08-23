@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ALL QUIZ Games",
-    "currentPage": "index.html",
+    "currentPage": "smallville.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -73,7 +73,7 @@
       "text": "Utilizamos coockies propias y de terceros. Puedes obtener más información en nuestra política de <a href='terms.html'>cookies</a> y de  <a href='policy.html'>privacidad</a>."
     },
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
